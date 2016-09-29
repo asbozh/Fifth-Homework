@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fifth Homework</string>
+    <string name="button_refresh">Refresh</string>
+    <string name="btn_add_items">Add Items</string>
+    <string name="currency">BGN</string>
+</resources>
